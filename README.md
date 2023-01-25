@@ -30,7 +30,7 @@ with open("git.txt","r") as f1:
         for line in f1:
             f2.write(line)
 
-### OUTPUT:
+## OUTPUT:
 
 ![214654707-d421820c-cedd-4226-8bdb-b915f03ef6d5](https://user-images.githubusercontent.com/118678482/214665012-b67deae9-034a-456c-a466-b40fec69c075.png)
 
